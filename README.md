@@ -93,5 +93,9 @@
 - 💼 [LinkedIn](https://www.linkedin.com/in/aimen-elm)  
 - 🐦 [Twitter](https://twitter.com/code__oz)
 
----
+
+<p align="center">
+    <img align="center" src="https://media.giphy.com/media/z5iCvo1oCbqt7ukMQs/giphy.gif">
+</p>
+
 
