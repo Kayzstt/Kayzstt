@@ -67,9 +67,9 @@
 
 ## 🧪 Notable Projects
 
-### 🔒 Secure Medical Record System  
-**Java**, **TCP/IP Sockets**, **Cryptography**, **RBAC**  
-➡️ End-to-end encrypted system for managing sensitive medical records securely.
+### 🔒 [Secure Medical Record System](https://github.com/Kayzstt/Medical-Record-System)  
+**PHP**, **Laravel**, **TCP/IP Sockets**, **Cryptography**, **Role-Based Access Control**  
+➡️ Secure medical record management system using encryption and role-based access, built in a hospital-like architecture.
 
 ### 📱 AnimeSpot – Mobile App  
 **Kotlin**, **Firebase**, **GraphQL (AniList API)**  
