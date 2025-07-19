@@ -21,7 +21,7 @@
 
 ## 🔧 Tech Stack
 
-### 💻 Programming Languages
+<h3 align="center">💻 Programming Languages</h3>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" width="40" height="40"/>
@@ -31,7 +31,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" title="Kotlin" width="40" height="40"/>
 </p>
 
-### 🌐 Web Technologies
+<h3 align="center">🌐 Web Technologies</h3>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML" width="40" height="40"/>
@@ -43,14 +43,14 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg" title="Three.js" width="40" height="40"/>
 </p>
 
-### 🗄️ Databases
+<h3 align="center">🗄️ Databases</h3>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" width="40" height="40"/>
 </p>
 
-### ☁️ Cloud & DevOps
+<h3 align="center">☁️ Cloud & DevOps</h3>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" title="Azure" width="40" height="40"/>
