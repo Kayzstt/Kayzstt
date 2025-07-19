@@ -91,7 +91,6 @@
 
 - 📧 [aimen.mahsini@icloud.com](mailto:aimen.mahsini@icloud.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/aimen-elm)  
-- 🐦 [Twitter](https://twitter.com/code__oz)
 
 
 <p align="center">
