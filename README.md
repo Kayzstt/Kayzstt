@@ -71,7 +71,7 @@
 **PHP**, **Laravel**, **TCP/IP Sockets**, **Cryptography**, **Role-Based Access Control**  
 ➡️ Secure medical record management system using encryption and role-based access, built in a hospital-like architecture.
 
-### 📱 AnimeSpot – Mobile App  
+### 📱 [AnimeSpot – Mobile App ](https://github.com/Kayzstt/AnimeSpot) 
 **Kotlin**, **Firebase**, **GraphQL (AniList API)**  
 ➡️ Android app to track anime releases, with user accounts and real-time sync.
 
